@@ -1,0 +1,337 @@
+1;Aciklovir 200mg tableta;Zdravlje;18;230
+2;Aciklovir 50mg/g krem;Hemofarm;21;340
+3;Acipan 20 mg gastrorezistentna tableta;Sandoz;21;290
+4;Acipan 40mg gastrorezistentna tableta;Sandoz;7;330
+5;Aerius 5mg film tableta;Schering-Plough;8;360
+6;Aerius 0.5mg/ml oralni rastvor;Schering-Plough;3;340
+7;Alkohol 70 procentni;Zorka Sabac;15;240
+8;Alkohol 96 procentni;Zorka Sabac;50;300
+9;Alphagan 2mg/ml kapi za oci;Allergan;8;250
+10;Alpska krema za bolove;Lloyd;3;1200
+11;Alpski balzam za vene;Lloyd;7;1200
+12;Altal sirup za kasalj;Pulmint;3;530
+13;Alvodronic 150mg film tableta;Pharmathen;7;170
+14;Amaryl 2mg tableta;Sanofi;8;180
+15;Amaryl 3mg tableta;Sanofi;7;190
+16;Amaryl 4mg tableta;Sanofi;8;200
+17;Amlodipin Alkaloid 5 mg tableta;Alkaloid;22;110
+18;Amlodipin Alkaloid 10mg tableta;Alkaloid;19;130
+19;Amoksicilin HF 500mg kapsula, tvrda;Hemofarm;18;210
+20;Ampril 5mg tableta;Krka;12;390
+21;Ampril 10mg tableta;Krka;10;400
+22;Analgin tablete 500mg;Alkaloid;54;120
+23;Atolip 10mg film tableta;Galenika;9;330
+24;Atoris 10mg film tableta;Krka;11;330
+25;Bactrim 400mg+80mg tableta;Galenika;19;230
+26;Barios 5mg tableta;Hemofarm;7;280
+27;Bebi krem protiv ojeda;Dr Plant;5;240
+28;Bebi puder Kosili;Kosili;6;350
+29;Bebi kupka Kosili;Kosili;6;430
+30;Bensedin 10mg tableta;Galenika;15;205
+31;Betamsal 0.4mg kapsula, tvrda;Hemofarm;12;610
+32;Bisoprolol 2.5mg film tableta;PharmaS;14;235
+33;Bisoprolol 5mg film tableta;PharmaS;18;295
+34;Bisoprolol 10mg film tableta;PharmaS;6;380
+35;Biostatin forte kapsule;Pharmalife;4;830
+36;Bromazepam 1.5mg tableta;Hemofarm;89;98
+37;Bromazepam 3mg tableta;Hemofarm;118;42
+38;Bromazepam 6mg tableta;Hemofarm;176;72
+39;Brufen OTC 100mg/5ml sirup;Mylan Madarska;32;315
+40;Brufen 200mg/5ml sirup;Mylan;28;490
+41;Brufen 400mg tableta;Mylan;56;300
+42;Brufen 600mg tableta;Mylan;4;340
+43;Brufen 400mg sumece granule;Mylan;2;530
+44;Brufen 600mg sumece granule;Mylan;4;640
+45;Cardiopirin 75mg tableta;G.L.Pharma;67;240
+46;Cardiopirin 100mg tableta;G.L.Pharma;83;300
+47;Caj kamilica JP;Institut Dr Josif Pancic;6;270
+48;Caj nana JP;Institut Dr Josif Pancic;6;215
+49;Caj maticnjak JP;Institut Dr Josif Pancic;3;170
+50;Citrax forte 30 kapsula;Bioclinica;1;1260
+51;Citrax forte 60 kapsula;Bioclinica;1;1630
+52;Cavinton 5mg tableta;Gedeon Richter;23;270
+53;Cavinton forte 10mg tableta;Gideon Richter;13;320
+54;Cefaleksin HF 500mg kapsula tvrda;Hemofarm;19;360
+55;Chloramphenicol Galenika 10mg/g mast za oci;Galenika;10;195
+56;Citeral 250mg film tableta;Alkaloid;9;275
+57;Citeral 500mg film tableta;Alkaloid;11;500
+58;Clopigal 75mg film tableta;Galenika;3;1300
+59;Clopidix 75mg film tableta;Hemofarm;2;610
+60;Concor COR 1.25mg film tableta;Merck;27;160
+61;Concor COR 2.5mg film tableta;Merck;25;195
+62;Concor COR 3.75mg film tableta;Merck;21;210
+63;Concor COR 5mg film tableta;Merck;35;285
+64;Corega neutralan ukus;gsk;6;380
+65;Corega ekstra snazna;gsk;8;375
+66;Corega tablete;gsk;10;500
+67;Daktanol krem za kozu;Galenika;11;280
+68;Daktanol oralni gel;Galenika;7;320
+69;Defrinol tablete;Galenika;24;180
+70;Defrinol forte tablete;Galenika;27;205
+71;Detralex 30tableta;Les laboratoires Servier;2;950
+72;Detralex 60tableta; Les laboratoires Servier;2;1670
+73;Diaprel 30tblx60mg;Servier;31;730
+74;Diaprel 60tblx60mg;Servier;4;1460
+75;Diclofenac Duo kapsule 75mg;PharmaSwiss;47;380
+76;DicloRapid kapsule 75mg;PharmaSwiss;8;300
+77;Didermal mast;Galenika;10;240
+78;Didermal krem;Galenika;10;260
+79;Dulcolax tablete 5mg;Delpharm Reims;9;170
+80;Dulcolax supozitorije 10mg;Istituto de Angeli;17;220
+81;Efferalgan sumeca tbl 500mg;Upsa;6;200
+82;Efferalgan supozitorija 80mg;Upsa;4;230
+83;Eftil tablete 145mg+333mg;Sanofi Winthrop;21;470
+84;Eftil sirup 150ml;Unither Liquid Manufacturing;6;700
+85;Enalapril tbl 10mg;Zdravlje;34;250
+86;Enalapril tbl 20mg;Zdravlje;37;525
+87;Elocom krema;Schering-Plough;8;325
+88;Elocom mast;Schering-Plough;7;325
+89;Enterofuryl stop kapsule 200mg;Bosnalijek;22;190
+90;Espumisan 25 kapsula;Berlin-Chemie;8;390
+91;Espumisan 50 kapsula;Berlin-Chemie;2;750
+92;Euthyrox  tbl 25µg;Merck;37;140
+93;Euthyrox  tbl 50µg;Merck;46;160
+94;Euthyrox  tbl 75µg;Merck;53;190
+95;Euthyrox  tbl 100µg;Merck;24;215
+96;Eveline ruz za usne;Eveline;14;450
+97;Eveline olovka za usne;Eveline;6;290
+98;Eveline krema za lice dnevna;Eveline;4;1200
+99;Eveline krema za lice nocna;Eveline;3;1240
+100;Femisan A kapi;Herbasvet;3;890
+101;Femisan B kapi;Herbasvet;3;910
+102;Famotidin HF 20mg;Hemofarm;10;230
+103;Famotidin HF 40mg;Hemofarm;12;310
+104;Fastum gel 50g;Menarini Group;5;470
+105;Febricet tablete 500mg;Hemofarm;17;270
+106;Febricet sirup 100ml;Hemofarm;9;250
+107;Febricet supozitorije 200mg;Hemofarm;6;290
+108;Fenistil gel 30g;GSK;8;550
+109;Fervex kesice limun;Upsa;38;640
+110;Fervex kesice malina;Upsa;9;640
+111;Fervex kesice bez secera;Upsa;13;680
+112;Fervex kesice za decu;Upsa;17;600
+113;Fizioloski rastvor 0,9 procentni;Hemofarm;39;90
+114;Flavamed tablete 30mg;Berlin-Chemie;4;270
+115;Flavamed sirup 100ml;Berlin-Chemie;8;320
+116;Flonidan tablete 10mg;Lek;9;380
+117;Floxal kapi za oci;Dr Gerhard Mann;5;350
+118;Fluimucil kesice 100mg;Zambon;7;290
+119;Fluimucil kesice 200mg;Zambon;8;340
+120;Fluimucil sumece tbl 600mg;Zambon;6;360
+121;Forxiga tablete 28x10mg;AstraZeneca;8;4800
+122;Forxiga tablete 30x10mg;AstraZeneca;10;5200
+123;Gastroprazol tbl 10mg;ADOC;8;290
+124;Gastroprazol tbl 20mg;ADOC;23;470
+125;Gelorevoice lozenge tresnja;Pohl Boskamp;12;730
+126;Gentamicin mast za oci 0,1 procentni;Galenika;14;230
+127;Glaumol kapi za oci;Galenika;7;315
+128;Gliclada tbl 60mg;Krka;6;350
+129;Gliclada tbl 90mg;Krka;6;390
+130;Gluformin tbl 500mg;Hemofarm;24;120
+131;Gluformin tbl 1000mg;Hemofarm;30;210
+132;Glucophage tbl 500mg;Merck;32;135
+133;Glucophage tbl 850mg;Merck;45;200
+134;Glucophage tbl 1000mg;Merck;57;250
+135;Heferol kapsule 350mg;Alkaloid;6;440
+136;Hemodrops kapi za oci;Hemomont;8;420
+137;Hemokvin tbl 10mg;Hemofarm;43;275
+138;Hemokvin tbl 20mg;Hemofarm;45;455
+139;Hemokvin plus tbl 20mg+12,5mg;Hemofarm;32;430
+140;Hemomycin kapsula 250mg;Hemofarm;19;130
+141;Hemomycin tbl 500mg;Hemofarm;35;170
+142;Hepathrombin krem 300ij;Hemofarm;5;530
+143;Hepathrombin krem 500ij;Hemofarm;6;560
+144;Hepathrombin H rektalna mast;Hemofarm;8;480
+145;Hepathrombin H supozitorije;Hemofarm;5;570
+146;Herbion sirup brsljan;Krka;4;500
+147;Herbion sirup bokvica;Krka;4;500
+148;Herbion sirup jagorcevina;Krka;3;500
+149;Herbion sirup  islandski lisaj;Krka;3;500
+150;Hypolip tbl 10mg;Hemofarm;19;290
+151;Hypolip tbl 20mg;Hemofarm;22;430
+152;Hypolip tbl 40mg;Hemofarm;4;570
+153;Isla pastile menta;E.A.Nemacka;17;490
+154;Isla medic acute pastile;E.A.Nemacka;13;540
+155;Isla pastile za decu jagoda;E.A.Nemacka;111;470
+156;Indapres tbl 2,5mg;Hemofarm;17;320
+157;Indapres SR tbl 1,5mg;Hemofarm;12;260
+158;Indocollyre kapi za oci;Dr Gerhard Mann;2;370
+159;Isocard tablete 60mg;Belupo;5;960
+160;Isosorb retard kapsule 20mg;Zdravlje;4;420
+161;Irbenida tbl 150mg;Hemofarm;7;530
+162;Irbenida tbl 300mg;Hemofarm;8;670
+163;Jaramera 10mg;Hemofarm;3;970
+164;Jardiance tableta 10mg;Boehringer Ingrlheim;21;1830
+165;Jardiance tableta 25mg; Boehringer Ingrlheim;6;2400
+166;Kansen krem 20g;Hemofarm;7;280
+167;Ketonal duo kapsule 150mg;Lek;7;190
+168;Ketonal forte tablete 100mg;Lek;15;170
+169;Ketonal gel 50g;Salutas;3;420
+170;Kombinovani prasak kesice HF;Hemofarm;34;150
+171;Kreon 10000 kapsule;Abbott Nemacka;2;1200
+172;Kreon 25000 kapsule;Abbott Nemacka;6;1500
+173;Krema za ruke glicerinska;Eveline;5;200
+174;Krema za ruke badem;Eveline;7;280
+175;Krema za ruke aloja vera;Eveline;8;290
+176;Lak za nokte;Bel London;47;140
+177;Lasix tablete 40mg;Sanofi Winthrop;63;110
+178;Letrox tbl 50 µg; Berlin-Chemie;5;150
+179;Letrox tbl 100 µg; Berlin-Chemie;5;180
+180;Letrox tbl 150 µg;Berlin-Chemie;5;190
+181;Limeral tbl 1mg;Zdravlje;5;220
+182;Limeral tbl 2mg;Zdravlje;7;230
+183;Limeral tbl 3mg;Zdravlje;9;390
+184;Linex kapsule;Lek;5;460
+185;Linex junior kesice za decu;Lek;4;550
+186;Lizopril tbl 10mg;Bosnalijek;15;150
+187;Lizopril tbl 20mg;Bosnalijek;14;350
+188;Lorazepam tbl 2,5mg;Hemofarm;24;200
+189;Lorista tbl 50mg;Krka;13;505
+190;Lorista H tbl 50+12,5mg;Krka;7;570
+191;Massido tablete 5mg;Alkaloid;14;330
+192;Mezym forte 10000 tablete;Berlin-Chemie;19;480
+193;Midol tablete 100mg;Hemofarm;27;320
+194;Monopril tbl 10mg;PharmaSwiss;24;580
+195;Monopril tbl 20mg;PharmaSwiss;21;610
+196;Monopril plus 20+12,5mg;PharmaSwiss;27;690
+197;Monural kesice 3g;Zambon;9;400
+198;Mycoseb sampon protiv peruti;Hemofarm;13;900
+199;Myderison tablete 150mg;Goodwill Pharma;8;260
+200;Mydocalm tablete 150mg;Gedeon Richter;11;370
+201;Nalgesin S tableta 275mg;Krka;4;205
+202;Nalgesin forte tableta 550mg;Krka;9;380
+203;Nasonex sprej za nos;Schering-Plough;6;930
+204;Nasic sprej za nos;Klosterfrau;7;640
+205;Nasic sprej za decu;Klosterfrau;8;570
+206;Nafazol kapi za nos;Hemofarm;26;100
+207;Nebigal tbl 5mg;Balkanpharma;3;460
+208;Nebilet tbl 5mg;Berlin-Chemie;5;430
+209;Nevotens tbl 5mg;Balkanpharma;4;440
+210;Neo angin pastile;Divapharma;8;550
+211;Neo angin bez secera;Divapharma;7;560
+212;Nexium tbl 7x20mg;AstraZeneca;7;110
+213;Nexium tbl 7x40mg;AstraZeneca;8;210
+214;Nexium tbl 14x20mg;AstraZeneca;7;290
+215;Nexium tbl 14x40mg;AstraZeneca;8;570
+216;Nitroglicerin union;Union-Medic;12;200
+217;Nifelat tbl 20mg;Zdravlje;31;200
+218;Nolpaza tbl 14x20mg;Krka;36;120
+219;Nolpaza tbl 28x20mg;Krka;16;240
+220;Nolpaza 14x40mg;Krka;14;200
+221;Nolpaza 28x40mg;Krka;17;400
+222;Octenisept sprej za kozu;Schulke&Mayr;8;530
+223;Olynth sprej za nos;Delpharm Orleans;13;420
+224;Olynth kapi za nos;Delpharm Orleans;9;330
+225;Operil P sprej za nos;Lek;7;310
+226;Operil sprej za nos;Lek;7;390
+227;Optodrop kapi za oci;Rafarm;8;560
+228;Orthomol imuno kesice za odrasle;gsk;5;220
+229;Orthomol imuno tabl.za zvakanje za decu;gsk;4;150
+230;Primal sirup za kasalj;Pulmint;4;530
+231;Propomint sprej za odrasle;Esensa;5;340
+232;Propolis kapi20ml;Julifarm;6;200
+233;Propolis kapi+vit.C 20ml;Julifarm;7;230
+234;Propolis kapi+bokvica 20ml;Julifarm;5;250
+235;Propomucil 200 kesice;AbelaPharm;3;390
+236;Propomucil 600 kesice;AbelaPharm;2;540
+237;Palitrex kapsula 250mg;Galenika;18;210
+238;Palitrex kapsula 500mg;Galenika;16;360
+239;Panadol advance tbl 500mg;gsk;16;320
+240;Panadol extra advance tablete;gsk;23;470
+241;Panrazol tbl 20mg;Zdravlje;11;220
+242;Panrazol tbl 40mg;Zdravlje;15;440
+243;Paracetamol tablete 500mg;Galenika;74;350
+244;Paracetamol sirup 100ml Alk;Alkaloid;29;380
+245;Paracetamol sirup 100ml Gal;Galenika;33;400
+246;Povidon jod 10 procentni;Hemofarm;21;150
+247;Povidon jod 8,5 procentni;Hemofarm;4;130
+248;Presolol tbl 28x50mg;Hemofarm;39;140
+249;Presolol tbl 56x50mg; Hemofarm;42;260
+250;Presolol tbl 28x100mg; Hemofarm;37;295
+251;Pressing tablete 10mg;Hemofarm;18;370
+252;Prilenap tbl 10mg;Hemofarm;32;190
+253;Prilenap tbl 20mg;Hemofarm;34;360
+254;Prilenap H tablete;Hemofarm;28;340
+255;Prilenap HL tablete;Hemofarm;25;320
+256;Prospan sirup 100ml;Eng.Arz.;5;670
+257;Prospan sirup 200ml;Eng.Arz.;3;890
+258;Prostamol UNO 30 kapsula;Berlin-Chemie;4;1300
+259;Prostamol UNO 60 kapsula;Berlin-Chemie;4;2100
+260;Rapten Duo tablete 75mg;Hemofarm;23;150
+261;Rapten K tablete 50mg;Hemofarm;58;120
+262;Roxera tbl 10mg;Krka;27;820
+263;Roxera tbl 20mg;Krka;38;1300
+264;Roxera tbl 40mg;Krka;15;2000
+265;Sebamed sapun za decu;Sebamed;3;560
+266;Sebamed kupka za decu;Sebamed;4;630
+267;Sebamed sampon za decu;Sebamed;3;590
+268;Strepsils limun i med;Reckitt Benckiser Healthcare;6;540
+269;Strepsils eukaliptus i menta;Reckitt Benckiser Healthcare;8;570
+270;Sinoderm N mast;Galenika;15;220
+271;Sinoderm gel;Galenika;8;250
+272;Siofor 500mg tablete;Berlin-Chemie;17;150
+273;Siofor 850mg tablete;Berlin-Chemie;21;230
+274;Siofor 1000mg tablete;Berlin-Chemie;12;300
+275;Skopryl tbl 10mg;Alkaloid;26;270
+276;Skopryl tbl 20mg;Alkaloid;34;340
+277;Skopryl plus 20+12,5mg;Alkaloid;21;555
+278;Smecta kesice;B.I.I.;3;510
+279;Smecta go oralna suspenzija;B.I.I.;4;630
+280;SNUP sprej za nos za odrasle;Hemofarm;13;410
+281;SNUP sprej za nos za decu;Hemofarm;17;370
+282;Spironolakton tbl 25mg;Galenika;16;470
+283;Spironolakton tbl 100mg;Galenika;11;750
+284;Synopen mast 20g;Pliva;12;370
+285;Tamsol kapsula 0,4mg;PharmaSwiss;23;610
+286;Tamlos kapsula 0,4mg;Alkaloid;10;590
+287;Tamsulosin PharmaS kapsula 0,4mg;PharmaS;15;640
+288;Tantum verde sprej za grlo;ACRAF;5;360
+289;Tantum verde forte sprej za grlo;ACRAF;4;410
+290;Tantum verde lozenge;ACRAF;7;530
+291;Tefor tbl 500mg;Galenika;25;150
+292;Tefor tbl 850mg;Galenika;43;230
+293;Tensec tbl 5mg;Hemofarm;17;300
+294;Tensec tbl 10 mg;Hemofarm;8;400
+295;Tensec plus 5+12,5mg;Hemofarm;6;280
+296;Timal sirup za kasalj;Pulmint;4;530
+297;Trachisan lozenge;Eng Arz;4;320
+298;Trental tablete 400mg;Sanofi;28;320
+299;Tritace tbl 2,5mg;Sanofi;36;250
+300;Tritace tbl 5mg;Sanofi;47;380
+301;Tritace tbl 10 mg;Sanofi;32;410
+302;Tylol Hot sumece granule;Nobel Ilac;38;640
+303;Ursofalk kapsula 50x250mg;Dr.Falk Pharma;2;270
+304;Ursofalk kapsula 100x250mg;Dr.Falk Pharma;2;540
+305;Urutal tableta 100x8mg;Belupo;4;1100
+306;Urutal tableta 20x24mg;Belupo;4;350
+307;Valsacor tableta 80mg;Krka;18;510
+308;Valsacor tableta 160mg;Krka;22;690
+309;Valsacombi tbl 80+12,5mg;Krka;27;560
+310;Valsacombi 160+12,5mg;Krka;31;670
+311;Vazotal tbl 50mg;Hemofarm;11;210
+312;Vazotal tbl 100mg;Hemofarm;13;250
+313;Verapamil HF tbl 40mg;Hemofarm;18;110
+314;Verapamil HF tbl 80mg;Hemofarm;15;260
+315;Vigantol oralne kapi;Lusomedicamenta;23;210
+316;Vitamin C EKO 10tbl.;EKO;250;30
+317;Vitamin C Strong nature 10tbl.;EKO;30;50
+318;Vivace tbl 2,5mg; Zdravlje;12;250
+319;Vivace tbl 5mg; Zdravlje;13;380
+320;Vivace tbl 10mg;Zdravlje;14;430
+321;Vata 50mg;Niva;7;100
+322;Vata 100mg;Niva;10;160
+323;Xalatan kapi za oci;Pfizer Belgija;19;940
+324;Xalacom kapi za oci;Pfizer Belgija;7;830
+325;Xarelto tbl 10mg;Bayer Bitterfeld;7;3620
+326;Xarelto tbl 15mg; Bayer Bitterfeld;8;4550
+327;Xarelto tbl 20mg; Bayer Bitterfeld;7;8200
+328;Xyzal tbl 10x5mg;Aes.Pharmaceuticals;12;150
+329;Xyzal tbl 30x5mg;Aes.Pharmaceuticals;10;350
+330;Yanida tbl 80mg;Hemofarm;12;550
+331;Yanida tbl 160mg;Hemofarm;13;700
+332;Zoloft tbl 50mg;Pfizer Nemacka;8;390
+333;Zoloft tbl 100mg;Pfizer Nemacka;6;1540
+334;Zorkaptil tbl 12,5mg;Hemofarm;12;195
+335;Zorkaptil tbl 25mg;Hemofarm;25;335
+336;Zyllt tbl 75mg;Krka;46;1350
+337;Zylit tbl 90mg;Krka;20;1600

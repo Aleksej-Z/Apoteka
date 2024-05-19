@@ -1,0 +1,298 @@
+0;Zorkaptil tbl 12,5mg;039896792
+1;Detralex 30tableta;533439093
+2;Citrax forte 60 kapsula;776196308
+3;Hemomycin kapsula 250mg;379372432
+4;Siofor 850mg tablete;805709364
+5;Brufen 600mg tableta;715988318
+6;Ketonal forte tablete 100mg;060680522
+7;Nexium tbl 14x20mg;090976005
+8;Concor COR 5mg film tableta;799438693
+9;Palitrex kapsula 500mg;379372432
+10;Cavinton 5mg tableta;443496853
+11;Rapten Duo tablete 75mg;325639211
+12;Amaryl 2mg tableta;548795354
+13;Octenisept sprej za kozu;268707919
+14;Nalgesin S tableta 275mg;154157847
+15;Amaryl 4mg tableta;605726738
+16;Prilenap H tablete;846852810
+17;Jardiance tableta 10mg;507715560
+18;Vigantol oralne kapi;395314696
+19;Brufen 600mg sumece granule;398326084
+20;Vivace tbl 5mg;070948819
+21;Vata 50mg;474039004
+22;Defrinol tablete;742882727
+23;Orthomol imuno kesice za odrasle;140232139
+24;Euthyrox  tbl 75µg;202309647
+25;Monopril plus 20+12,5mg;731139766
+26;Krema za ruke badem;945623360
+27;Eveline ruz za usne;043330484
+28;Zoloft tbl 100mg;485064458
+29;Pressing tablete 10mg;994771041
+30;Primal sirup za kasalj;105069583
+31;Presolol tbl 28x50mg;559774386
+32;Brufen 600mg sumece granule;821530422
+33;Olynth kapi za nos;877268824
+34;Famotidin HF 40mg;366185447
+35;Glucophage tbl 500mg;602775115
+36;Tritace tbl 10 mg;418439952
+37;Tantum verde lozenge;220852537
+38;Orthomol imuno kesice za odrasle;384923290
+39;Povidon jod 8,5 procentni;976886059
+40;Enalapril tbl 20mg;122188180
+41;Sinoderm N mast;038777856
+42;Nitroglicerin union;882379308
+43;Euthyrox  tbl 50µg;298883900
+44;Amaryl 3mg tableta;500390524
+45;Tamsol kapsula 0,4mg;204192960
+46;Amaryl 2mg tableta;636601975
+47;Bromazepam 6mg tableta;220252651
+48;Amoksicilin HF 500mg kapsula, tvrda;548795354
+49;Daktanol krem za kozu;891681623
+50;Tylol Hot sumece granule;059823748
+51;Monopril tbl 20mg;512957284
+52;Citeral 500mg film tableta;238864873
+53;Bromazepam 6mg tableta;360261827
+54;Vata 50mg;894637753
+55;Operil P sprej za nos;416962892
+56;Brufen 200mg/5ml sirup;989137354
+57;Ampril 5mg tableta;929687180
+58;Yanida tbl 80mg;764334985
+59;Tantum verde sprej za grlo;039896792
+60;Glucophage tbl 850mg;383918473
+61;Tritace tbl 5mg;307326079
+62;Tensec plus 5+12,5mg;220852537
+63;Indapres tbl 2,5mg;518339197
+64;Acipan 40mg gastrorezistentna tableta;994771041
+65;Nitroglicerin union;729200913
+66;Prospan sirup 100ml;444656602
+67;Spironolakton tbl 25mg;393430967
+68;Bisoprolol 5mg film tableta;882379308
+69;Prilenap HL tablete;384684200
+70;Corega tablete;261409832
+71;Brufen 600mg tableta;051033263
+72;Heferol kapsule 350mg;395314696
+73;Bactrim 400mg+80mg tableta;718940331
+74;Xarelto tbl 15mg;081100610
+75;Cardiopirin 75mg tableta;651727460
+76;Brufen 600mg sumece granule;154157847
+77;SNUP sprej za nos za odrasle;681859035
+78;Ursofalk kapsula 100x250mg;352758433
+79;Hemokvin plus tbl 20mg+12,5mg;809499064
+80;Tensec tbl 5mg;891681623
+81;Amaryl 2mg tableta;718940331
+82;Corega neutralan ukus;629010334
+83;Jardiance tableta 25mg;834648802
+84;Aerius 5mg film tableta;157055188
+85;Vazotal tbl 100mg;551986177
+86;Tritace tbl 2,5mg;808237129
+87;Mydocalm tablete 150mg;483859896
+88;Xarelto tbl 15mg;512194309
+89;Vivace tbl 10mg;653853366
+90;Lorista tbl 50mg;434775827
+91;Zyllt tbl 75mg;134114666
+92;Urutal tableta 100x8mg;086435926
+93;Sebamed sampon za decu;778393122
+94;Gastroprazol tbl 20mg;038777856
+95;Nolpaza 28x40mg;384234713
+96;Herbion sirup  islandski lisaj;805709364
+97;Nasonex sprej za nos;676006509
+98;Indocollyre kapi za oci;905411317
+99;Kreon 25000 kapsule;666784256
+100;Bromazepam 1.5mg tableta;703635729
+101;Prilenap HL tablete;206118279
+102;Concor COR 2.5mg film tableta;741118345
+103;Cardiopirin 100mg tableta;680685803
+104;Gluformin tbl 1000mg;503826942
+105;Detralex 60tableta;801595747
+106;Indocollyre kapi za oci;083855995
+107;Hemodrops kapi za oci;597314710
+108;Daktanol oralni gel;721987822
+109;Tantum verde sprej za grlo;181570748
+110;Irbenida tbl 300mg;038777856
+111;Alpska krema za bolove;920269692
+112;Panadol extra advance tablete;068248085
+114;Flavamed tablete 30mg;882379308
+115;Propomucil 200 kesice;518339197
+116;Amaryl 3mg tableta;416962892
+117;Prospan sirup 200ml;769752826
+118;Tensec plus 5+12,5mg;894829613
+119;Zoloft tbl 50mg;393430967
+120;Lak za nokte;599990704
+121;Fervex kesice limun;729200913
+122;Panadol extra advance tablete;055986580
+123;Monopril plus 20+12,5mg;044065123
+124;Didermal mast;206118279
+125;Alkohol 96 procentni;980028156
+126;SNUP sprej za nos za decu;809499064
+127;Smecta go oralna suspenzija;910622873
+128;Propomucil 200 kesice;240891212
+129;Herbion sirup  islandski lisaj;989137354
+130;Eveline olovka za usne;835899384
+131;Tantum verde sprej za grlo;395314696
+132;Concor COR 1.25mg film tableta;814220445
+133;Herbion sirup brsljan;808237129
+134;Strepsils limun i med;923395644
+135;Fluimucil kesice 100mg;742882727
+136;Zylit tbl 90mg;259309101
+137;Panrazol tbl 20mg;081100610
+138;Gliclada tbl 60mg;285225091
+139;Linex junior kesice za decu;085140109
+140;Zoloft tbl 100mg;848571379
+141;Skopryl tbl 10mg;730320278
+142;Xalatan kapi za oci;680685803
+143;Espumisan 25 kapsula;204192960
+144;Indapres SR tbl 1,5mg;478139390
+145;Daktanol krem za kozu;976886059
+146;Hemokvin tbl 20mg;651959982
+147;Eveline olovka za usne;044065123
+148;Jaramera 10mg;105069583
+149;Citeral 250mg film tableta;581568868
+150;Primal sirup za kasalj;922716048
+151;Operil P sprej za nos;122746994
+152;Xarelto tbl 10mg;448230427
+153;Siofor 850mg tablete;809499064
+154;Neo angin pastile;223406162
+155;Orthomol imuno tabl.za zvakanje za decu;033514876
+156;Heferol kapsule 350mg;418439952
+157;Fizioloski rastvor 0,9 procentni;359597568
+158;Citeral 500mg film tableta;528100364
+160;Ketonal gel 50g;256175458
+161;Kansen krem 20g;729518264
+162;Flonidan tablete 10mg;801595747
+163;Eftil sirup 150ml;505698913
+164;Fastum gel 50g;516240883
+165;Flavamed sirup 100ml;915440719
+166;Betamsal 0.4mg kapsula, tvrda;068248085
+167;Panrazol tbl 40mg;939320145
+168;Valsacombi 160+12,5mg;419809030
+169;Fenistil gel 30g;819440552
+170;Operil P sprej za nos;923395644
+171;Prostamol UNO 60 kapsula;945444354
+172;Bromazepam 3mg tableta;384234713
+173;Olynth sprej za nos;877268824
+174;Isocard tablete 60mg;870396644
+175;Herbion sirup brsljan;528648522
+176;Prilenap H tablete;503826942
+177;Concor COR 2.5mg film tableta;340776535
+178;Gastroprazol tbl 20mg;870222512
+179;Vivace tbl 5mg;673517354
+180;Tritace tbl 10 mg;570866989
+181;Amaryl 3mg tableta;714939426
+182;Euthyrox  tbl 25µg;193732728
+183;Xarelto tbl 10mg;663972828
+184;Prilenap tbl 10mg;676006509
+185;Altal sirup za kasalj;193732728
+186;Hepathrombin krem 300ij;108933641
+187;Tritace tbl 2,5mg;444288423
+188;Clopidix 75mg film tableta;193694613
+189;Bromazepam 3mg tableta;037160315
+190;Paracetamol tablete 500mg;814894746
+191;Brufen 600mg tableta;730997427
+192;Nexium tbl 14x40mg;912183731
+193;Atoris 10mg film tableta;676006509
+194;Euthyrox  tbl 25µg;193975009
+195;Tensec plus 5+12,5mg;551986177
+196;Kreon 10000 kapsule;360261827
+197;Citrax forte 60 kapsula;729200913
+198;Rapten Duo tablete 75mg;051033263
+199;Nolpaza 14x40mg;261409832
+200;Nebilet tbl 5mg;877268824
+201;Atoris 10mg film tableta;122746994
+202;Rapten Duo tablete 75mg;046142892
+203;Flavamed sirup 100ml;086435926
+204;Verapamil HF tbl 80mg;418439952
+205;Primal sirup za kasalj;505698913
+206;Eftil tablete 145mg+333mg;434849870
+207;Concor COR 5mg film tableta;920269692
+208;Valsacombi tbl 80+12,5mg;748464240
+209;Sebamed sapun za decu;821530422
+210;Fluimucil kesice 100mg;302531361
+211;Tritace tbl 5mg;676006509
+212;Vata 50mg;894637753
+213;Hemokvin plus tbl 20mg+12,5mg;081493549
+214;Mycoseb sampon protiv peruti;905411317
+215;Eftil sirup 150ml;700172106
+216;Herbion sirup  islandski lisaj;809499064
+217;Smecta kesice;154157847
+218;Barios 5mg tableta;516240883
+219;Synopen mast 20g;443496853
+220;Ampril 10mg tableta;044065123
+221;Euthyrox  tbl 25µg;154157847
+222;Euthyrox  tbl 100µg;477485803
+223;Bensedin 10mg tableta;305769687
+224;Bisoprolol 5mg film tableta;379372432
+225;Isocard tablete 60mg;134114666
+226;Euthyrox  tbl 75µg;478139390
+227;Tantum verde sprej za grlo;748464240
+228;Rapten K tablete 50mg;416962892
+229;Cavinton forte 10mg tableta;481124759
+230;Eveline krema za lice dnevna;651959982
+231;Propolis kapi+bokvica 20ml;444288423
+232;Eftil tablete 145mg+333mg;204260267
+233;Smecta go oralna suspenzija;195047975
+234;Gentamicin mast za oci 0,1 procentni;468759562
+235;Corega ekstra snazna;444288423
+236;Lorazepam tbl 2,5mg;753665854
+237;Lizopril tbl 20mg;912183731
+238;Nasonex sprej za nos;384899423
+239;Zoloft tbl 50mg;186353005
+240;Fervex kesice malina;877268824
+241;Irbenida tbl 300mg;165332682
+242;Isosorb retard kapsule 20mg;945623360
+243;Verapamil HF tbl 40mg;410586425
+244;Nasic sprej za decu;834648802
+245;Limeral tbl 1mg;240891212
+246;Xalatan kapi za oci;384684200
+247;Hypolip tbl 20mg;814894746
+248;Famotidin HF 20mg;729518264
+249;Floxal kapi za oci;030759853
+250;Cefaleksin HF 500mg kapsula tvrda;683076830
+251;Ketonal duo kapsule 150mg;311013737
+252;Clopigal 75mg film tableta;963956146
+253;Nolpaza tbl 28x20mg;384899423
+254;Amaryl 2mg tableta;055986580
+255;Nolpaza 14x40mg;858336071
+256;Glucophage tbl 850mg;923395644
+257;Skopryl plus 20+12,5mg;863565792
+258;Biostatin forte kapsule;913632383
+259;Forxiga tablete 30x10mg;026815492
+260;Panrazol tbl 20mg;444288423
+261;Monopril tbl 10mg;857439763
+262;Bisoprolol 5mg film tableta;108933641
+263;Presolol tbl 28x50mg;302531361
+264;Brufen 400mg sumece granule;131532801
+265;Pressing tablete 10mg;866730085
+266;Aciklovir 200mg tableta;951609431
+267;Elocom krema;821530422
+268;Irbenida tbl 300mg;037160315
+269;Smecta go oralna suspenzija;033632027
+270;Vata 100mg;528100364
+271;Prilenap tbl 10mg;140232139
+272;Prostamol UNO 60 kapsula;434849870
+273;Roxera tbl 20mg;193694613
+274;Panadol extra advance tablete;026815492
+275;Urutal tableta 100x8mg;185037890
+276;Gastroprazol tbl 10mg;953866208
+277;Hepathrombin krem 500ij;799438693
+278;Tantum verde sprej za grlo;131532801
+279;Mezym forte 10000 tablete;913632383
+280;Skopryl tbl 20mg;761426522
+281;Irbenida tbl 300mg;044065123
+282;Kombinovani prasak kesice HF;676006509
+283;Povidon jod 8,5 procentni;181570748
+284;Fastum gel 50g;185037890
+285;Brufen 400mg sumece granule;476591763
+286;Zorkaptil tbl 25mg;043330484
+287;Daktanol krem za kozu;821838672
+288;Zoloft tbl 50mg;181376050
+289;Lizopril tbl 10mg;571885051
+290;Indocollyre kapi za oci;410586425
+291;Valsacor tableta 160mg;848571379
+292;Hemokvin tbl 20mg;165332682
+293;Mezym forte 10000 tablete;207508802
+294;Letrox tbl 150 µg;570444792
+295;Elocom mast;183180695
+296;Hemomycin kapsula 250mg;777230458
+297;Limeral tbl 1mg;761426522
+298;Fluimucil kesice 100mg;570444792
+299;Citeral 500mg film tableta;778393122

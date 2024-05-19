@@ -1,0 +1,41 @@
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\bin\Debug\net6.0-windows\Apoteka.exe
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\bin\Debug\net6.0-windows\Apoteka.deps.json
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\bin\Debug\net6.0-windows\Apoteka.runtimeconfig.json
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\bin\Debug\net6.0-windows\Apoteka.dll
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\bin\Debug\net6.0-windows\Apoteka.pdb
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\Apoteka.csproj.AssemblyReference.cache
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\Apoteka.csproj.GenerateResource.cache
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\Apoteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\Apoteka.AssemblyInfoInputs.cache
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\Apoteka.AssemblyInfo.cs
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\Apoteka.dll
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\refint\Apoteka.dll
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\Apoteka.pdb
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\Apoteka.genruntimeconfig.cache
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\ref\Apoteka.dll
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\Apoteka.Knjizenje.resources
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\Apoteka.Properties.Resources.resources
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\Apoteka.Skladiste.resources
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\Apoteka.eprodaja.resources
+C:\Users\Aleksej\Desktop\Projekat\Apoteka\obj\Debug\net6.0-windows\Apoteka.erecepti.resources
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\bin\Debug\net6.0-windows\Apoteka.exe
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\bin\Debug\net6.0-windows\Apoteka.deps.json
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\bin\Debug\net6.0-windows\Apoteka.runtimeconfig.json
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\bin\Debug\net6.0-windows\Apoteka.dll
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\bin\Debug\net6.0-windows\Apoteka.pdb
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\Apoteka.e_prodaja.resources
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\Apoteka.Knjizenje.resources
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\Apoteka.Properties.Resources.resources
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\Apoteka.Skladiste.resources
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\Apoteka.csproj.GenerateResource.cache
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\Apoteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\Apoteka.AssemblyInfoInputs.cache
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\Apoteka.AssemblyInfo.cs
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\Apoteka.dll
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\refint\Apoteka.dll
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\Apoteka.pdb
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\Apoteka.genruntimeconfig.cache
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\ref\Apoteka.dll
+C:\Users\Aleksej\Desktop\Projekat Aleksej Zecevic\Apoteka\obj\Debug\net6.0-windows\Apoteka.e_recepti.resources
