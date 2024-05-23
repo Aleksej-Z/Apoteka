@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -381,56 +381,64 @@ namespace Apoteka
         #region brisanje
         private void Brisanjeb_Click(object sender, EventArgs e)
         {
-            try
+            if (listBox1.SelectedItem != null)
             {
-                string izabrani_p = listBox1.SelectedItem.ToString();
-                #region pretrazujemo niz proizvoda i postavljamo vrednost datog proizvoda na null kako bismo ga izbrisali
-                int ID = int.Parse(izabrani_p.Split('|')[0]);
-                for (int i = 0; i < n; i++)
+                try
                 {
-                    if (ID == Proizvodi[i].Id)
-                    {
-                        Proizvodi[i] = null;
-                        n--;
-                    }
-                }
-                #endregion
-                OsvezavanjeTabele();
-                OsvezavanjeListBox();
-            }
-            catch (Exception)
-            {
-                MessageBox.Show("Izaberite proizvod koji zelite da obrisete!");
-            }
-        }
-        #endregion
-        #region promena cene
-        private void Promenib_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                if (Double.Parse(textBox5.Text.ToString()) > 0)
-                {
+                    textBox4.Text = "";
                     string izabrani_p = listBox1.SelectedItem.ToString();
-                    #region pretrazujemo niz proizvoda i menjamo cenu
+                    #region pretrazujemo niz proizvoda i postavljamo vrednost datog proizvoda na null kako bismo ga izbrisali
                     int ID = int.Parse(izabrani_p.Split('|')[0]);
                     for (int i = 0; i < n; i++)
                     {
                         if (ID == Proizvodi[i].Id)
                         {
-                            Proizvodi[i].Cena = Double.Parse(textBox5.Text.ToString());
+                            Proizvodi[i] = null;
+                            n--;
                         }
                     }
                     #endregion
                     OsvezavanjeTabele();
                     OsvezavanjeListBox();
                 }
+                catch (Exception)
+                {
+                    MessageBox.Show("Izaberite proizvod koji zelite da obrisete!");
+                }
             }
-            catch (Exception)
+        }
+        #endregion
+        #region promena cene
+        private void Promenib_Click(object sender, EventArgs e)
+        {
+            if (listBox1.SelectedItem != null)
             {
-                MessageBox.Show("Unesite novu cenu u odgovarajuce polje!");
+                try
+                {
+                    if (Double.Parse(textBox5.Text.ToString()) > 0)
+                    {
+                        string izabrani_p = listBox1.SelectedItem.ToString();
+                        #region pretrazujemo niz proizvoda i menjamo cenu
+                        int ID = int.Parse(izabrani_p.Split('|')[0]);
+                        for (int i = 0; i < n; i++)
+                        {
+                            if (ID == Proizvodi[i].Id)
+                            {
+                                Proizvodi[i].Cena = Double.Parse(textBox5.Text.ToString());
+                            }
+                        }
+                        #endregion
+                        OsvezavanjeTabele();
+                        OsvezavanjeListBox();
+                        textBox5.Text = "";
+                    }
+                }
+                catch (Exception)
+                {
+                    MessageBox.Show("Unesite novu cenu u odgovarajuce polje!");
+                    textBox5.Text = "";
+                }
             }
-
         }
         #endregion
     }
